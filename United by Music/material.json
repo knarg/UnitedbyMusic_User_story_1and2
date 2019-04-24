@@ -1,0 +1,46 @@
+{"type": {
+  "instrument" : [{
+        "brass_beginner": "lndfjds",
+        "brass_intermediate": jhjkgh
+        "brass_advanced":lıjjkkj
+      },
+        {
+        "percussion_beginner":jkkjn,
+        "percussion_intermediate":jkghjv,
+        "percussion_advanced":ömbhbv
+      },
+       {
+        "strings_beginner":jkkjn,
+        "strings_intermediate":jkghjv,
+        "strings_advanced":ömbhbv
+      },
+        {
+        "woodwinds_beginner":jkkjn,
+        "woodwinds_intermediate":jkghjv,
+        "woodwinds_advanced":ömbhbv
+      }
+      ],
+  "vocal": [
+    {
+        "alto_beginner":jkkjn,
+        "alto_intermediate":jkghjv,
+        "alto_advanced":ömbhbv
+    },
+    {
+        "soprano_beginner":jkkjn,
+        "soprano_intermediate":jkghjv,
+        "soprano_advanced":ömbhbv
+    }
+    ,
+    {
+      "tenor_beginner":jkkjn,
+      "tenor_intermediate":jkghjv,
+      "tenor_advanced":ömbhbv
+    },
+    {
+      "bass_beginner":jkkjn,
+      "bass_intermediate":jkghjv,
+      "bass_advanced":ömbhbv
+    }
+  ]
+}
